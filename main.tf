@@ -33,3 +33,4 @@ data "aws_iam_policy_document" "key_policy" {
     resource = ["*"]
   }
 }
+}
